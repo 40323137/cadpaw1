@@ -1820,7 +1820,7 @@ jupyter notebook
     Download ZIP 將裡面的檔案複製在倉儲內。
 
 &lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="https://github.com/coursemdetw/reveal"&gt;revea&lt;/a&gt;
+    &lt;p&gt;請參考 &lt;a href="https://github.com/coursemdetw/reveal"&gt;reveal&lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151018190050.1">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;建立倉儲分支&lt;/h1&gt;
